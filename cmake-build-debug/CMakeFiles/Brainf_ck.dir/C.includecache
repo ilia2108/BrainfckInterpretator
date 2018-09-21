@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ilia_2108/Desktop/Brainf*ck/main.c
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+string.h
+-
+stack.h
+/Users/ilia_2108/Desktop/Brainf*ck/stack.h
+
+/Users/ilia_2108/Desktop/Brainf*ck/stack.h
+

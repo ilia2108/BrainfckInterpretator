@@ -1,0 +1,3 @@
+/Users/ilia_2108/Desktop/Brainf*ck/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ilia_2108/Desktop/Brainf*ck/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ilia_2108/Desktop/Brainf*ck/cmake-build-debug/CMakeFiles/Brainf_ck.dir
